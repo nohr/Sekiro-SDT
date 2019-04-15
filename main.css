@@ -1,0 +1,23 @@
+body {
+ text-align: center;
+background-color:#212528;
+}
+h1 {
+ color:#f9c973; 
+font-size: 9vmin; 
+margin-bottom:0px;
+font-family: cursive;
+}
+h2 {
+    text-align: center;
+    font-family:serif;
+    color: #705f91;
+}
+p {
+    font-size: 30px;
+    color: #1695a3;
+    margin: 0;
+}
+a {
+    text-align: center;
+}
